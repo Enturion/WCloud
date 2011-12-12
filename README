@@ -1,0 +1,49 @@
+= WCloudEMU 4.0.6a -- General information =
+
+Copyright (C) Moby			(https://bitbucket.org/kitto/moby/overview)
+Copyright (C) WCell			(http://wcell.org/)
+Copyright (C) Innovative 	(http://www.innovativegames.net)
+Copyright (C) Riemers		(http://www.riemers.net/)
+Copyright (C) SkyFireEMU    (http://www.projectskyfire.org)
+Copyright (C) Cactus        (http://www.cactusemu.com)
+Copyright (C) TriniEnhanced (https://bitbucket.org/Gideon/trinienhanced)
+Copyright (C) TrinityCore   (http://www.trinitycore.org)
+Copyright (C) MaNGOS        (http://www.getmangos.com)
+Copyright (C) ScriptDev2    (http://www.scriptdev2.com)
+Copyright (C) WoWD			( Legendary )
+Copyright (C) RunWoW		( Legendary )
+
+
+  WCloudEMU is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation; either version 2 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program; if not, write to the Free Software
+  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+  In addition, as a special exception, the WCloudEMU project
+  gives permission to link the code of its release of WCloudEMU with
+  the OpenSSL project's "OpenSSL" library (or with modified versions of
+  it that use the same license as the "OpenSSL" library), and distribute
+  the linked executables.  You must obey the GNU General Public License
+  in all respects for all of the code used other than "OpenSSL".  If you
+  modify this file, you may extend this exception to your version of the
+  file, but you are not obligated to do so.  If you do not wish to do
+  so, delete this exception statement from your version.
+
+WCloudEMU is a MMORPG Framework based mostly on C++. It is completely 
+open source, and is community supported. It is derived
+from CactusCore, TrinityCore, and MaNGOS, the Massive Network Game Object Servers, 
+and is based on the code of there projects with extensive changes over time to optimize, 
+improve and cleanup the codebase at the same time as improving the ingame mechanics
+and functionality. If you wish to contribute ideas or code please visit 
+our site linked below or make pull requests to our github repo at 
+https://github.com/Enturion/WCloudEMU/
+
